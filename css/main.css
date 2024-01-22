@@ -1,0 +1,21 @@
+*{
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.product{
+
+    color: blue;
+    text-transform: capitalize;
+}
+
+.price{
+
+    color: black;
+    background-color: grey;
+    padding: 5px;
+    width: fit-content;  
+}
